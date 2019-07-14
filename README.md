@@ -1,7 +1,7 @@
-# DIP-PipesFilters
+﻿# DIP-PipesFilters
 Processamento de imagem com filtros e dutos (Pipes and Filters)
 
-Arquivos executáveis na pasta executáveis
+Arquivos executáveis no branch executáveis
 
 Para utilizar a /ajuda nos demais filtros é necessário antes o filtro abrir
 Ex: abrir lenna.jpg | borda /ajuda
