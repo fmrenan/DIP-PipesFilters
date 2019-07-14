@@ -1,3 +1,4 @@
+# Utilização dos Filtros
 Para utilizar a /ajuda nos demais filtros é necessário antes o filtro abrir
 Ex: abrir lenna.jpg | borda /ajuda
 Obs: A utilização do filtro pixelada deve ser logo após o abrir
